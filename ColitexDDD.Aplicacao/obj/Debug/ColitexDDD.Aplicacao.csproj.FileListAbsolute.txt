@@ -1,0 +1,14 @@
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.Aplicacao\bin\Debug\ColitexDDD.Aplicacao.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.Aplicacao\bin\Debug\ColitexDDD.Aplicacao.pdb
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.Aplicacao\obj\Debug\ColitexDDD.Aplicacao.csproj.CoreCompileInputs.cache
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.Aplicacao\obj\Debug\ColitexDDD.Aplicacao.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.Aplicacao\obj\Debug\ColitexDDD.Aplicacao.pdb
+C:\Users\Administrador\source\repos\ColitexDDD\ColitexDDD.Aplicacao\bin\Debug\ColitexDDD.Aplicacao.dll.CodeAnalysisLog.xml
+C:\Users\Administrador\source\repos\ColitexDDD\ColitexDDD.Aplicacao\bin\Debug\ColitexDDD.Aplicacao.dll.lastcodeanalysissucceeded
+C:\Users\Administrador\source\repos\ColitexDDD\ColitexDDD.Aplicacao\obj\Debug\ColitexDDD.Aplicacao.csprojAssemblyReference.cache
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.Aplicacao\bin\Debug\ColitexDDD.Aplicacao.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.Aplicacao\bin\Debug\ColitexDDD.Aplicacao.pdb
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.Aplicacao\obj\Debug\ColitexDDD.Aplicacao.csprojAssemblyReference.cache
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.Aplicacao\obj\Debug\ColitexDDD.Aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.Aplicacao\obj\Debug\ColitexDDD.Aplicacao.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.Aplicacao\obj\Debug\ColitexDDD.Aplicacao.pdb

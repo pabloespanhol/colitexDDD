@@ -1,0 +1,14 @@
+C:\Users\Administrador\source\repos\ColitexDDD\Colitex.Persistencia\obj\Debug\ColitexDDD.Persistencia.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\ColitexDDD\Colitex.Persistencia\obj\Debug\ColitexDDD.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\Colitex.Persistencia\bin\Debug\Colitex.Persistencia.dll.config
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\Colitex.Persistencia\bin\Debug\Colitex.Persistencia.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\Colitex.Persistencia\bin\Debug\Colitex.Persistencia.pdb
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\Colitex.Persistencia\bin\Debug\EntityFramework.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\Colitex.Persistencia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\Colitex.Persistencia\bin\Debug\EntityFramework.xml
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\Colitex.Persistencia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\Colitex.Persistencia\obj\Debug\ColitexDDD.Persistencia.csprojAssemblyReference.cache
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\Colitex.Persistencia\obj\Debug\ColitexDDD.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\Colitex.Persistencia\obj\Debug\ColitexDDD.Persistencia.csproj.CopyComplete
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\Colitex.Persistencia\obj\Debug\Colitex.Persistencia.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\Colitex.Persistencia\obj\Debug\Colitex.Persistencia.pdb

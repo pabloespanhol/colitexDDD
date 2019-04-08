@@ -1,0 +1,198 @@
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\ApplicationInsights.config
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\ColitexDDD.MVC.dll.config
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\ColitexDDD.MVC.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\ColitexDDD.MVC.pdb
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\roslyn\csc.exe
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\roslyn\csc.exe.config
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\roslyn\csc.rsp
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\roslyn\csi.exe
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\roslyn\csi.exe.config
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\roslyn\csi.rsp
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\roslyn\Microsoft.Managed.Core.targets
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\roslyn\System.AppContext.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\roslyn\System.Collections.Immutable.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\roslyn\System.Console.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\roslyn\System.IO.Compression.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\roslyn\System.IO.FileSystem.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\roslyn\System.IO.Pipes.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\roslyn\System.Security.AccessControl.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\roslyn\System.Security.Claims.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\roslyn\System.ValueTuple.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\roslyn\System.Xml.XPath.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\roslyn\vbc.exe
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\roslyn\vbc.exe.config
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\roslyn\vbc.rsp
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\roslyn\VBCSCompiler.exe
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\roslyn\VBCSCompiler.exe.config
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\Antlr3.Runtime.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\Microsoft.AI.Web.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\Microsoft.AI.WindowsServer.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\Microsoft.ApplicationInsights.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\Microsoft.Web.Infrastructure.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\Newtonsoft.Json.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\System.Diagnostics.DiagnosticSource.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\System.Web.Helpers.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\System.Web.Mvc.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\System.Web.Optimization.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\System.Web.Razor.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\System.Web.WebPages.Deployment.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\System.Web.WebPages.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\System.Web.WebPages.Razor.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\WebGrease.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\System.Web.Helpers.xml
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\System.Web.Mvc.xml
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\System.Web.Optimization.xml
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\System.Web.Razor.xml
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\System.Web.WebPages.xml
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\System.Web.WebPages.Deployment.xml
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\System.Web.WebPages.Razor.xml
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\Newtonsoft.Json.xml
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\Antlr3.Runtime.pdb
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\System.Diagnostics.DiagnosticSource.xml
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\Microsoft.AI.WindowsServer.xml
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\Microsoft.AI.Web.xml
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\pt-br\System.Web.Helpers.resources.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\pt-br\System.Web.Mvc.resources.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\pt-br\System.Web.Optimization.resources.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\pt-br\System.Web.Razor.resources.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\pt-br\System.Web.WebPages.resources.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\obj\Debug\ColitexDDD.MVC.csprojAssemblyReference.cache
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\obj\Debug\ColitexDDD.MVC.csproj.CoreCompileInputs.cache
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\obj\Debug\ColitexDDD.MVC.csproj.CopyComplete
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\obj\Debug\ColitexDDD.MVC.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.MVC\obj\Debug\ColitexDDD.MVC.pdb
+C:\Users\Administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\ColitexDDD.MVC.dll.CodeAnalysisLog.xml
+C:\Users\Administrador\source\repos\ColitexDDD\ColitexDDD.MVC\bin\ColitexDDD.MVC.dll.lastcodeanalysissucceeded
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\ApplicationInsights.config
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\ColitexDDD.MVC.dll.config
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\ColitexDDD.MVC.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\ColitexDDD.MVC.pdb
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\roslyn\csc.exe
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\roslyn\csc.exe.config
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\roslyn\csc.rsp
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\roslyn\csi.exe
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\roslyn\csi.exe.config
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\roslyn\csi.rsp
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\roslyn\System.AppContext.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\roslyn\System.Console.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\roslyn\vbc.exe
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\roslyn\vbc.exe.config
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\roslyn\vbc.rsp
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\Antlr3.Runtime.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\Microsoft.AI.Web.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\Newtonsoft.Json.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\System.Web.Helpers.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\System.Web.Mvc.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\System.Web.Optimization.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\System.Web.Razor.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\System.Web.WebPages.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\WebGrease.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\System.Web.Helpers.xml
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\System.Web.Mvc.xml
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\System.Web.Optimization.xml
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\System.Web.Razor.xml
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\System.Web.WebPages.xml
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\Newtonsoft.Json.xml
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\Microsoft.AI.Web.xml
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\obj\Debug\ColitexDDD.MVC.csprojAssemblyReference.cache
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\obj\Debug\ColitexDDD.MVC.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\obj\Debug\ColitexDDD.MVC.csproj.CopyComplete
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\obj\Debug\ColitexDDD.MVC.dll
+C:\Users\Pablo Espanhol\Desktop\ColitexDDD\ColitexDDD.MVC\obj\Debug\ColitexDDD.MVC.pdb

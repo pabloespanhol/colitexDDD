@@ -1,0 +1,6 @@
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.Dcominio\bin\Debug\ColitexDDD.Dcominio.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.Dcominio\bin\Debug\ColitexDDD.Dcominio.pdb
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.Dcominio\obj\Debug\ColitexDDD.Dcominio.csprojAssemblyReference.cache
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.Dcominio\obj\Debug\ColitexDDD.Dcominio.csproj.CoreCompileInputs.cache
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.Dcominio\obj\Debug\ColitexDDD.Dcominio.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.Dcominio\obj\Debug\ColitexDDD.Dcominio.pdb

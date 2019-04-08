@@ -1,0 +1,6 @@
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.Persistencia\bin\Debug\ColitexDDD.Persistencia.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.Persistencia\bin\Debug\ColitexDDD.Persistencia.pdb
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.Persistencia\obj\Debug\ColitexDDD.Persistencia.csprojAssemblyReference.cache
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.Persistencia\obj\Debug\ColitexDDD.Persistencia.csproj.CoreCompileInputs.cache
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.Persistencia\obj\Debug\ColitexDDD.Persistencia.dll
+c:\users\administrador\source\repos\ColitexDDD\ColitexDDD.Persistencia\obj\Debug\ColitexDDD.Persistencia.pdb
